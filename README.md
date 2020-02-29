@@ -1,2 +1,2 @@
 # ESLINT-config :hand:
-### _My own ESLINT configuration file for React.js Proyects:atom::bowtie:_
+### _My own ESLINT configuration file for React.js Projects:atom::bowtie:_
