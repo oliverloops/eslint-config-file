@@ -2,7 +2,7 @@
 
 //# Visual Studio Code Enviroment Variable:
 //code () { VSCODE_CWD="$PWD" open -n -b "com.microsoft.VSCode" --args $* ;}
---- --- --- --- --- ---
+--- --- --- --- --- --- --- --- --- --- --- --- --- ---
 //TO ADD TypeScript use this object on parser config: 
 // parser: "@typescript-eslint/parser" 
 
